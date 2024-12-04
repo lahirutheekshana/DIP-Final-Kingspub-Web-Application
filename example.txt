@@ -1,0 +1,22 @@
+Admin :
+ admin@gmail.com
+ 1234
+
+Manager :
+ asiriduos@gmail.com
+ 1234
+
+Delivery_agent :
+ lahiru@gmail.com
+ 4567
+
+Customer :
+ jhon@gmail.com
+ 1111
+
+
+
+These are the accounts already registered.
+
+import the DB kingspub to the phpMyAdmin
+run the file(kingspub) in vs code live server.

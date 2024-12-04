@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Open+Sans:ital,wght@0,800;1,600&family=Urbanist&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.head {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background:rgba(0,0,0,0.3)url('../images/2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+}
+
+.regi-box {
+    height: 600px;
+    width: 500px;
+    text-align: center;
+    color: orange;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    box-shadow: 0 0 6px rgba(58, 56, 56, 0.3);
+    background-color: rgba(0,0,0,0.3);
+    
+}
+
+.form {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 20%;
+}
+
+.txts {
+    width: 100%;
+    height: 42px;
+    margin: 10px 0px; 
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(222, 224, 226);
+}
+
+.btn {
+   width: 80%;
+   margin-left: 10%;
+   margin-top: 3%;
+}
+
+.btns {
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    background-color: yellow;
+    border: none;
+}
+
+.check {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.check #check {
+     width: 100%;
+     height: 42px;
+     margin: 10px 0px; 
+     text-align: center;
+     font-size: 15px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     color: rgb(95, 94, 91);
+     background-color: rgb(222, 224, 226);;
+}
+
+.names {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.txt {
+    width: 50%;
+    height: 42px;
+    margin: 10px 0px; 
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(222, 224, 226);
+    margin: 1%;
+}
+
+#check {
+    border-radius: 5px;
+}
+
+.adminLogin {
+    float: right;
+    margin-top: 50%;
+}
+
+.adminLogin h5{
+    color: green;
+}
